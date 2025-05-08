@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍🎓 I m currently studying at Muhammadiyah University of Tangerang
+- 👨‍🎓 I’m currently studying at Muhammadiyah University of Tangerang
 - ✍️ I’m currently learning React JS Framework
 
 ##### Skills
