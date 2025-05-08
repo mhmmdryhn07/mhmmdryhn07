@@ -1,4 +1,4 @@
-![Muhamad Reyhan](img/Screenshot%202025-05-09%20043226.png)
+![Muhamad Reyhan](img/Screenshot%202025-05-09%20043356.png)
 
 <!--
 **mhmmdryhn07/mhmmdryhn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
